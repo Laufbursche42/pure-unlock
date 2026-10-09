@@ -186,7 +186,6 @@ window.I18N = {
     warnMod: 'Die Modulationstiefe beeinflusst das obere Drehzahlende. Zu hoch gesetzt kann sie Motor oder Controller überlasten. Nur in kleinen Schritten ändern.',
     warnLock: 'Das schaltet die Roller-Sperre und schreibt dabei das komplette Status-Byte mit. Aufheben geht nur wieder über Bluetooth.',
     warnRaw: 'Rohe Schreibzugriffe auf Engine-Ebene können den Controller in unerwartete Zustände bringen. Nur senden, wenn du weißt, was der Frame bewirkt.',
-    disclaimerText: 'Dieses Werkzeug ist eine Machbarkeitsstudie, kein fertiges Produkt. Es gibt keine Gewährleistung und keine Zusicherung fehlerfreien Betriebs. Das Anheben der Geschwindigkeit hebt die Drossel auf: die ABE erlischt und der Betrieb auf öffentlichen Wegen ist dann nicht erlaubt. Nutze es nur am eigenen Fahrzeug und auf eigenes Risiko. Die Seite spricht nur lokal über Bluetooth mit dem Gerät, es werden keine Daten an einen Server gesendet. PURE ist eine Marke des jeweiligen Inhabers. Dieses Projekt ist unabhängig und steht in keiner Verbindung zu PURE, ZYD oder HobbyWing.',
 
     errNoWebBt: 'Dieser Browser hat kein Web Bluetooth. Nutze Chrome, Edge oder Bluefy (iOS).',
     errNotConnected: 'nicht verbunden',
@@ -397,7 +396,6 @@ window.I18N = {
     warnMod: 'Modulation depth affects the top-end. Set too high it can overload the motor or controller. Change it in small steps only.',
     warnLock: 'This toggles the scooter lock and writes the complete status byte along with it. It can only be released again over Bluetooth.',
     warnRaw: 'Raw engine-level writes can put the controller into unexpected states. Only send one if you know what the frame does.',
-    disclaimerText: 'This tool is a feasibility study, not a finished product. There is no warranty and no guarantee of error-free operation. Raising the speed removes the throttle: the type approval becomes void and riding on public roads is then not allowed. Use it only on your own vehicle and at your own risk. The page talks to the device locally over Bluetooth only, no data is sent to any server. PURE is a trademark of its respective owner. This project is independent and not affiliated with PURE, ZYD or HobbyWing.',
 
     errNoWebBt: 'This browser has no Web Bluetooth. Use Chrome, Edge or Bluefy (iOS).',
     errNotConnected: 'not connected',
